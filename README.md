@@ -1,3 +1,7 @@
 # Resume
 All About Me
-<h1>how are you</h1>
+**hey there**
+*item 1
+*item2
+**item3
+
