@@ -29,9 +29,9 @@ Programming: C ,Java, Android Development</br>
 MS-Office, PowerPoint, Data Structures And Algorithms.</br> 
 
 **Projects & Training**</br>
--3Month Training in Android with practical implementation.  
--3-Month Training in java with practical implementation.
--Mobile app for multi modal advanced traveller information system and traveller management.</br>
+- 3Month Training in Android with practical implementation.  
+- 3-Month Training in java with practical implementation.
+- Mobile app for multi modal advanced traveller information system and traveller management.</br>
 
 **Personal Details:**</br>
 Languages Known: Hindi, English.</br>
